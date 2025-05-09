@@ -1,5 +1,4 @@
 # Desafio-
-Desafio 
 O que é computação em nuvem?
 Refere-se à disponibilidade sob demanda de recursos de computação (como servidores, armazenamento, bancos de dados, software, redes, análise e inteligência) pela internet.
 
